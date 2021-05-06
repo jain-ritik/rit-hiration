@@ -30,6 +30,6 @@
     "serve-favicon": "^2.3.2",
     "textract": "^2.0.0",
     "tracer": "^0.8.7",
-    "underscore": "^1.7.0"
+    "underscore": "^1.12.1"
   }
 }
